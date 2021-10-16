@@ -2,10 +2,6 @@
 
 
 
-[![My card name](https://cardivo.vercel.app/api?name=ADHIPAN%20-%20MODS&description=HI,%20THIS%20IS%20A%20WHATS%20APP%20USER%20BOT%20MADE%20BY%20ADHIPAN%20FOR%20HIS%20FRIEND%20PRIME.&image=https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4?v=4&backgroundColor=%23ecf0f1&youtube=&github=ADHIPAN-MODS&pattern=leaf&colorPattern=%23eaeaea)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
-
-Thank you Everyone for helping to develop this one🦋
-
 
 
 ## Thanks for Everything 
@@ -18,8 +14,7 @@ Thank you Everyone for helping to develop this one🦋
 
 <div align="center"> 
   
- <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://camo.githubusercontent.com/c30eaa76fb4d276a52c8c22af3da174b536b4d5d5bbcc8746193f97abed00034/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352353266467661334638346433435773714b347673576d5851436e75644574726b365a5126757371703d434155" alt=" ADHIPAN-MODS " height="300" width="300" />
-</a>   
+ <a href="https://www.youtube.com/channel/UCoIZiesj6T9HlgIfBlj50Gw" target="blank"><img align="center" src="https://camo.githubusercontent.com/c30eaa76fb4d276a52c8c22af3da174b536b4d5d5bbcc8746193f97abed00034/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352353266467661334638346433435773714b347673576d5851436e75644574726b365a5126757371703d434155" alt=" ADHIPAN-MODS " height="300
   
 
   
